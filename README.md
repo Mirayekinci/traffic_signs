@@ -58,4 +58,4 @@ model/              Eğitilmiş model
 - İnternet sınıflarının test kümesi çok küçüktür (6–10 görüntü), bu sınıfların metrikleri belirsizdir.
 - Sınıf başına görüntü sayısı dengesizdir (200 / 27–44).
 - Model tek levha içeren, kırpılmış fotoğraflar içindir. Bir karedeki birden fazla levha için nesne tespiti (ör. YOLO) gerekir.
-- yaya_dikkat ve yaya_gecidi levhaları birbiriyle karışabilir.
+- yaya_dikkat ve yaya_gecidi levhaları birbiriyle karışabilir."# traffic_signs" 
